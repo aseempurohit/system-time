@@ -21,6 +21,7 @@
   "tenant_name": "{{user `tenant_name`}}",
   "username": "{{user `username`}}",
   "password": "{{user `password`}}",
+"DomainName":"{{user `DomainName`}}",
   "region": "{{user `region`}}",
   "use_floating_ip": "{{user `use_floating_ip`}}",
   "floating_ip_pool": "{{user `floating_ip_pool`}}",
